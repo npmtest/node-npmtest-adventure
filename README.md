@@ -1,4 +1,7 @@
-# test coverage for  [adventure (v2.11.0)](https://github.com/substack/adventure)  [![npm package](https://img.shields.io/npm/v/npmtest-adventure.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-adventure) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-adventure.svg)](https://travis-ci.org/npmtest/node-npmtest-adventure)
+# npmtest-adventure
+
+#### basic test coverage for  [adventure (v2.11.0)](https://github.com/substack/adventure)  [![npm package](https://img.shields.io/npm/v/npmtest-adventure.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-adventure) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-adventure.svg)](https://travis-ci.org/npmtest/node-npmtest-adventure)
+
 #### quickly hack together a nodeschool adventure
 
 [![NPM](https://nodei.co/npm/adventure.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/adventure)
@@ -83,7 +86,8 @@
     "scripts": {
         "test": "tape test/*.js"
     },
-    "version": "2.11.0"
+    "version": "2.11.0",
+    "bin": {}
 }
 ```
 
